@@ -12,6 +12,7 @@ import zipfile
 
 
 def main(whl):
+    eval(input())
     name = os.path.basename(whl)
     print('Wheel:', name)
     # pure Python (py3-none) but platform-tagged (not "any")
