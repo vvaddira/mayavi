@@ -1,4 +1,4 @@
-password = "password"
+password = "test12345"
 api_key = "secret_key"
 error = 1/0
 
